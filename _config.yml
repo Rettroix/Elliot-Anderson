@@ -4,7 +4,7 @@ subtitle: Portfolio
 email: eanderson63313@gmail.com
 description: My portfolio.
 baseurl: "/Elliot-Anderson" # the subpath of your site, e.g. /blog
-url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
+url: "https://rettroix.github.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
