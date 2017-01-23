@@ -2,7 +2,7 @@
 layout: post
 title: Mars Invasion
 description: A 2D space shooting game written in C++
-image: assets/images/pic09.jpg
+image: assets/images/spacegame.jpg
 ---
 
 I achieved a mark of 94% for this game which I completed in my second year as part 
