@@ -2,7 +2,7 @@
 layout: post
 title: Skyrim Mod
 description: A quest mod adding many things to Skyrim
-image: assets/images/pic09.jpg
+image: assets/images/anewagescreenshots (4).bmp
 ---
 
 A group project where we had to create a new quest for the game skyrim from scratch, which was
