@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Mars Invasion
-description: A 2D space shooting game written in C++
+title: Game Maker Jam #2
+description: Game Maker Engine Platformer
 image: assets/images/pic09.jpg
 ---
 
-I achieved a mark of 94% for this game which I completed in my second year as part 
-of my degree and is written in C++. In Mars Invasion, you play an alien spaceship on a mission to retake
-Mars from the human colonials. You must traverse the mars skyline 
-dodgeing and shooting as many human forces as possible all the while
-making sure your fuel does not run out. 
+In 2011, for Game maker Jam #2 I made a 2D platformer within a team in 48 hours.
+ I helped with graphics and scripting. We managed to finish the game in time and is the first project I completed 100%.
