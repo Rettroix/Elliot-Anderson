@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Mars Invasion
-description: A 2D space shooting game written in C++
+title: Coin Removing Game
+description: Text based c++ game
 image: assets/images/pic09.jpg
 ---
 
-I achieved a mark of 94% for this game which I completed in my second year as part 
-of my degree and is written in C++. In Mars Invasion, you play an alien spaceship on a mission to retake
-Mars from the human colonials. You must traverse the mars skyline 
-dodgeing and shooting as many human forces as possible all the while
-making sure your fuel does not run out. 
+My first project for university was to create a text based game in c++ wherein you
+ play against a computer to remove coins until there is one coin left, however you
+ can only remove up to 5 coins at a time.
