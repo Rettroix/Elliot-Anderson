@@ -2,7 +2,7 @@
 layout: post
 title: Coin Removing Game
 description: Text based c++ game
-image: assets/images/pic09.jpg
+image: assets/images/coingame.png
 ---
 
 My first project for university was to create a text based game in c++ wherein you

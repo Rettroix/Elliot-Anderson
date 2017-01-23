@@ -2,7 +2,7 @@
 layout: post
 title: Peg Solitaire
 description: C++ text based game
-image: assets/images/pic09.jpg
+image: assets/images/simpleSolitaire.png
 ---
 
 My third project for University, in c++ I recreated peg solitaire which is a game where you have to jump
