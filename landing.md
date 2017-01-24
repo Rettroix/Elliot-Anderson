@@ -30,12 +30,11 @@ Computer Games Programming (predicted grade 2:1)
   <section id="one">
   <div class="inner"><header class="major">
 
-## Sed amet aliquam
+## Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
 
 </header>
 
-Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
-<br />
+
 
 •	The ability to collaborate as a team  effectively in programming and design related assignments.
 <br />
@@ -56,18 +55,18 @@ Excellent course in developing a wide range of skills in programming, design and
 </p>
   <section id="two" class="spotlights">
   <section><a href="generic.html">
-  <img src="assets/images/pic08.jpg" alt="" data-position="center center">
+  <img src="" alt="" data-position="center center">
 </a>{:.image}
 
 <div class="content">
   <div class="inner"><header class="major">
 
-### Orci maecenas
+### In addition I have achieved:
+
 
 </header>
 
-In addition I have achieved:
-<br />
+
 
 •	Received the promising start accolade meaning I have achieved above average in three or more modules.
 <br />
@@ -82,7 +81,7 @@ In addition I have achieved:
 </div></section>
   <em></em>
   <section>
-  <em><a href="generic.html"><img src="assets/images/pic09.jpg" alt="" data-position="top center"></a>{:.image}
+  <em><a href="generic.html"><img src="" alt="" data-position="top center"></a>{:.image}
 
 </em>
   <div class="content">
@@ -101,7 +100,7 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
 </div>
 </section>
   <section><a href="generic.html">
-  <img src="assets/images/pic10.jpg" alt="" data-position="25% 25%">
+  <img src="" alt="" data-position="25% 25%">
 </a>{:.image}
 
 <div class="content">
