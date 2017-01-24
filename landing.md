@@ -13,13 +13,15 @@ nav-menu: true
 </span>
   <header class="major">
 
-# About Me
+# About My Course
 
 </header>
   <div class="content">
 
 Northumbria University
+<p>
 Computer Games Programming (predicted grade 2:1)
+<p>
 Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
 •	The ability to collaborate as a team  effectively in programming and design related assignments.
 •	A good understanding of c++ with good programming practice
