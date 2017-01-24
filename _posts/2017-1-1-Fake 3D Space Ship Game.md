@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fake-3D Space Ship Game
-description: 2D engine made to look 3D by having 2D sprites increase in scale as the player got closer
+description: 2D engine made to look 3D by having 2D sprites increase in scale as the player gets closer
 image: assets/images/fake3d.png
 ---
 
