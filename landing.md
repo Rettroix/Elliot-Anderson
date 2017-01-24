@@ -21,16 +21,6 @@ Northumbria University
 <br />
 Computer Games Programming (predicted grade 2:1)
 <br />
-Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
-•	The ability to collaborate as a team  effectively in programming and design related assignments.
-•	A good understanding of c++ with good programming practice
-•	Relevant maths which can be applied to programming
-•	Game design skills including 3D modeling and level design
-
-In addition I have achieved:
-•	Received the promising start accolade meaning I have achieved above average in three or more modules.
-•	Went beyond what is needed in some modules such as creating custom 3D models for our teamwork assignment.
-•	In the first year created a game which was optional to do in c++ which made a 2D engine look 3D by having 2D sprites increase in scale as the player got closer.
 
 </div>
 </div>
@@ -44,7 +34,20 @@ In addition I have achieved:
 
 </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
+Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
+<br />
+
+•	The ability to collaborate as a team  effectively in programming and design related assignments.
+<br />
+
+•	A good understanding of c++ with good programming practice
+<br />
+
+•	Relevant maths which can be applied to programming
+<br />
+
+•	Game design skills including 3D modeling and level design
+
 
 </div>
   <p></p>
@@ -63,7 +66,14 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc r
 
 </header>
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+In addition I have achieved:
+<br />
+
+•	Received the promising start accolade meaning I have achieved above average in three or more modules.
+<br />
+•	Went beyond what is needed in some modules such as creating custom 3D models for our teamwork assignment.
+<br />
+•	In the first year created a game which was optional to do in c++ which made a 2D engine look 3D by having 2D sprites increase in scale as the player got closer.
 
 <em><a href="generic.html">Learn more</a>{:.button}
 
