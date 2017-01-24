@@ -13,12 +13,23 @@ nav-menu: true
 </span>
   <header class="major">
 
-# Landing
+# About Me
 
 </header>
   <div class="content">
 
-{{ page.description }}
+Northumbria University
+Computer Games Programming (predicted grade 2:1)
+Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
+•	The ability to collaborate as a team  effectively in programming and design related assignments.
+•	A good understanding of c++ with good programming practice
+•	Relevant maths which can be applied to programming
+•	Game design skills including 3D modeling and level design
+
+In addition I have achieved:
+•	Received the promising start accolade meaning I have achieved above average in three or more modules.
+•	Went beyond what is needed in some modules such as creating custom 3D models for our teamwork assignment.
+•	In the first year created a game which was optional to do in c++ which made a 2D engine look 3D by having 2D sprites increase in scale as the player got closer.
 
 </div>
 </div>
