@@ -4,7 +4,7 @@ subtitle: Portfolio
 email: eanderson63313@gmail.com
 description: I am a game programming student in the second year at Northumbria University, seeking work placement for my third year in game programming or general programming related fields.
 baseurl: "/Elliot-Anderson" # the subpath of your site, e.g. /blog
-url: "https://rettroix.github.io" # the base hostname & protocol for your site
+url: "http://elliot-anderson.co.uk" # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
