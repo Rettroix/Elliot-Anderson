@@ -97,15 +97,6 @@ In addition I have achieved:
 
 </div>
   <p></p>
-</section>
-  <p>
-</p>
-  <section id="one" class="spotlights">
-  <section><a href="generic.html">
-  <img src="" alt="" data-position="center center">
-</a>
 
-<div class="content">
-  <div class="inner"><header class="major">
 
 
