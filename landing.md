@@ -79,7 +79,7 @@ In addition I have achieved:
 </section>
   <p>
 </p>
-  <section id="two" class="spotlights">
+  <section id="one" class="spotlights">
   <section><a href="generic.html">
   <img src="" alt="" data-position="center center">
 </a>
