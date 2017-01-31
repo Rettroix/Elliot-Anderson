@@ -87,6 +87,9 @@ In addition I have achieved:
 <div class="content">
   <div class="inner"><header class="major">
 
+About me
+
+</header>
 
 I am a 20 year old game programming student in the second year at Northumbria University, seeking work placement for my third year in game programming or general programming related fields. I have been using c++ for two years and plan on learning some other languages in my spare time.
 Video games have always fascinated me, from all the work that goes into creating one, to the way they can uniquely tell a story unlike any other medium. The changes we've seen in recent years are astounding and I would like to be part of that, to be one of those people driving forward the next revolution in the video game industry, to make high quality games that people can remember for years to come.
