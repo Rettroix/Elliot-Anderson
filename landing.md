@@ -13,7 +13,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-# About My Course
+About My Course
 
 </header>
   <div class="content">
@@ -30,7 +30,7 @@ Computer Games Programming (predicted grade 2:1)
   <section id="one">
   <div class="inner"><header class="major">
 
-## Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
+Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
 
 </header>
 
@@ -61,7 +61,7 @@ Computer Games Programming (predicted grade 2:1)
 <div class="content">
   <div class="inner"><header class="major">
 
-### In addition I have achieved:
+In addition I have achieved:
 
 
 </header>
@@ -74,65 +74,6 @@ Computer Games Programming (predicted grade 2:1)
 <br />
 •	In the first year created a game which was optional to do in c++ which made a 2D engine look 3D by having 2D sprites increase in scale as the player got closer.
 
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em></em>
-  <section>
-  <em><a href="generic.html"><img src="" alt="" data-position="top center"></a>{:.image}
-
-</em>
-  <div class="content">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-### Rhoncus magna
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-</em>   <a href="generic.html">Learn more</a>{:.button}
-
-</div>
-</div>
-</section>
-  <section><a href="generic.html">
-  <img src="" alt="" data-position="25% 25%">
-</a>{:.image}
-
-<div class="content">
-  <div class="inner"><header class="major">
-
-### Sed nunc ligula
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-
-<em><a href="generic.html">Learn more</a>{:.button}
-
-</em></div>
-  <em></em>
-</div></section>
-  <em><p></p></em>
-</section>
-  <em>
-  <p></p>
-</em>
-  <section id="three">
-  <em></em>
-  <div class="inner"><em><header class="major">
-
-## Massa libero
-
-</header>
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
-
-</em>   <a href="generic.html">Get Started</a>{:.button .next}
 
 </div>
 </section>
