@@ -19,18 +19,17 @@ About Me
   <div class="content">
 I am a 20 year old game programming student in the second year at Northumbria University, seeking work placement for my third year in game programming or general programming related fields. I have been using c++ for two years and plan on learning some other languages in my spare time.
 <br />
+<br />
 
 Video games have always fascinated me, from all the work that goes into creating one, to the way they can uniquely tell a story unlike any other medium. The changes we've seen in recent years are astounding and I would like to be part of that, to be one of those people driving forward the next revolution in the video game industry, to make high quality games that people can remember for years to come.
+<br />
 <br />
 
 Long before starting university I partook in many game related hobby projects such as recreating levels and such from other games and also tried developing my own ideas. I have finished a few projects, notably one I created when I was 14 with some friends for the GMCJam competition using the game maker engine. This was the first project I had completed, and would not be the last.
 <br />
-
-Apart from playing games I also enjoy reading comics and books, creative projects such as papercraft, drawing and animating, making and editing videos, composing music in fl studio and occasionally playing basketball or pool with my friends. 
 <br />
 
-My ambition is to become a full time video game programmer and also sell a successful indie game on my own. I hope that I can achieve great things and getting a placement will be a big step towards my goal.
-<br />
+
 
 
 </div>
@@ -41,22 +40,16 @@ My ambition is to become a full time video game programmer and also sell a succe
   <section id="one">
   <div class="inner"><header class="major">
 
-Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
 
 </header>
-
-
-
-•	The ability to collaborate as a team  effectively in programming and design related assignments.
+Apart from playing games I also enjoy reading comics and books, creative projects such as papercraft, drawing and animating, making and editing videos, composing music in fl studio and occasionally playing basketball or pool with my friends. 
+<br />
 <br />
 
-•	A good understanding of c++ with good programming practice
+My ambition is to become a full time video game programmer and also sell a successful indie game on my own. I hope that I can achieve great things and getting a placement will be a big step towards my goal.
+<br />
 <br />
 
-•	Relevant maths which can be applied to programming
-<br />
-
-•	Game design skills including 3D modeling and level design
 
 
 </div>
@@ -72,13 +65,30 @@ Excellent course in developing a wide range of skills in programming, design and
 <div class="content">
   <div class="inner"><header class="major">
 
-In addition I have achieved:
-
+My Course
 
 </header>
 
+Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
+<br />
+<br />
 
 
+•	The ability to collaborate as a team  effectively in programming and design related assignments.
+<br />
+
+•	A good understanding of c++ with good programming practice
+<br />
+
+•	Relevant maths which can be applied to programming
+<br />
+
+•	Game design skills including 3D modeling and level design
+<br />
+
+In addition I have achieved:
+<br />
+<br />
 •	Received the promising start accolade meaning I have achieved above average in three or more modules.
 <br />
 •	Went beyond what is needed in some modules such as creating custom 3D models for our teamwork assignment.
