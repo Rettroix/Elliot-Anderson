@@ -18,9 +18,17 @@ About Me
 </header>
   <div class="content">
 I am a 20 year old game programming student in the second year at Northumbria University, seeking work placement for my third year in game programming or general programming related fields. I have been using c++ for two years and plan on learning some other languages in my spare time.
+<br />
+
 Video games have always fascinated me, from all the work that goes into creating one, to the way they can uniquely tell a story unlike any other medium. The changes we've seen in recent years are astounding and I would like to be part of that, to be one of those people driving forward the next revolution in the video game industry, to make high quality games that people can remember for years to come.
+<br />
+
 Long before starting university I partook in many game related hobby projects such as recreating levels and such from other games and also tried developing my own ideas. I have finished a few projects, notably one I created when I was 14 with some friends for the GMCJam competition using the game maker engine. This was the first project I had completed, and would not be the last.
+<br />
+
 Apart from playing games I also enjoy reading comics and books, creative projects such as papercraft, drawing and animating, making and editing videos, composing music in fl studio and occasionally playing basketball or pool with my friends. 
+<br />
+
 My ambition is to become a full time video game programmer and also sell a successful indie game on my own. I hope that I can achieve great things and getting a placement will be a big step towards my goal.
 <br />
 
