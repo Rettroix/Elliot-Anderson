@@ -1,5 +1,5 @@
 ---
-title: Landing
+title: About Me
 layout: landing
 description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 image: assets/images/pic07.jpg
@@ -20,7 +20,7 @@ About Me
 I am a 20 year old game programming student in the second year at Northumbria University, seeking work placement for my third year in game programming or general programming related fields. I have been using c++ for two years and plan on learning some other languages in my spare time.
 <br />
 <br />
-
+ <a href="https://github.com/Rettroix/Elliot-Anderson/raw/master/Elliot%20CV.docx">Download CV</a> 
 
 
 
