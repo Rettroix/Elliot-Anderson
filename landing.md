@@ -17,10 +17,9 @@ About Me
 
 </header>
   <div class="content">
-I am a 20 year old game programming student in the second year at Northumbria University, seeking work placement for my third year in game programming or general programming related fields. I have been using c++ for two years and plan on learning some other languages in my spare time.
+ A games programming and advanced computer science masters graduate with a passion for computers, looking for employment in games/software development or related fields. I have most programming experience in C#, C++, Python and java.<br />
 <br />
-<br />
- <a href="https://github.com/Rettroix/Elliot-Anderson/raw/master/Elliot%20CV.docx">Download CV</a> 
+I graduated my games programming degree with a first, and my advanced computer science degree with a commendation.
 
 
 
@@ -35,21 +34,6 @@ I am a 20 year old game programming student in the second year at Northumbria Un
 
 
 </header>
-Video games have always fascinated me, from all the work that goes into creating one, to the way they can uniquely tell a story unlike any other medium. The changes we've seen in recent years are astounding and I would like to be part of that, to be one of those people driving forward the next revolution in the video game industry, to make high quality games that people can remember for years to come.
-<br />
-<br />
-
-Long before starting university I partook in many game related hobby projects such as recreating levels and such from other games and also tried developing my own ideas. I have finished a few projects, notably one I created when I was 14 with some friends for the GMCJam competition using the game maker engine. This was the first project I had completed, and would not be the last.
-<br />
-<br />
-
-Apart from playing games I also enjoy reading comics and books, creative projects such as papercraft, drawing and animating, making and editing videos, composing music in fl studio and occasionally playing basketball or pool with my friends. 
-<br />
-<br />
-
-My ambition is to become a full time video game programmer and also sell a successful indie game on my own. I hope that I can achieve great things and getting a placement will be a big step towards my goal.
-<br />
-<br />
 
 
 
@@ -66,35 +50,9 @@ My ambition is to become a full time video game programmer and also sell a succe
 <div class="content">
   <div class="inner"><header class="major">
 
-My Course
 
 </header>
 
-Excellent course in developing a wide range of skills in programming, design and maths, which has enabled me to develop:
-<br />
-<br />
-
-
-•	The ability to collaborate as a team  effectively in programming and design related assignments.
-<br />
-
-•	A good understanding of c++ with good programming practice
-<br />
-
-•	Relevant maths which can be applied to programming
-<br />
-
-•	Game design skills including 3D modeling and level design
-<br />
-
-In addition I have achieved:
-<br />
-<br />
-•	Received the promising start accolade meaning I have achieved above average in three or more modules.
-<br />
-•	Went beyond what is needed in some modules such as creating custom 3D models for our teamwork assignment.
-<br />
-•	In the first year created a game which was optional to do in c++ which made a 2D engine look 3D by having 2D sprites increase in scale as the player got closer.
 
 </div>
   <p></p>
