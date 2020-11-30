@@ -2,7 +2,7 @@
 layout: post
 title: Escape The Sun
 description: A 3D Platformer created in Unreal 4 as part of a uni project. The game was made by a team of four.
-image: assets/images/skyrim1.jpg
+image: assets/images/ETS/escapethesunpic.PNG
 ---
 
 A group project where we had to create a new quest for the game skyrim from scratch, which was
