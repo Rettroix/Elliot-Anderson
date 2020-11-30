@@ -9,5 +9,10 @@ author: null
 
 Northumbria University
 <br />
-Computer Games Programming (predicted grade 2:1)
 <br />
+Computer Games Programming (BSc), First-class honours
+<br />
+2015-2018
+<br />
+<br />
+Advanced Computer Science (MSc.), Commendation
