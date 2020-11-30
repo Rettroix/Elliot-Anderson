@@ -10,4 +10,4 @@ A group project where we had to create a new quest for the game skyrim from scra
  I also created custom 3D models which was beyond what was required and turned it into a working 
  lightbulb in-game. Lightbulbs are not usually possible to make in Skyrim and thus required extra scripting.
  
- ![Image 1](/assets/pic09.jpg)
+ ![Image 1](/assets/images/pic09.jpg)
