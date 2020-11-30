@@ -2,7 +2,7 @@
 layout: post
 title: Civilivision
 description: A Civilization Simulation Game
-image: assets/images/Civilivision/main.PNG
+image: assets/images/civ/main.png
 ---
 The aim of this project is to create a sandbox game which simulates the development of civilizations as they adapt and react to the generated conditions around them. 
 I wanted to apply similar concepts from other games and have AI manage themselves autonomously without the need for player input. 
