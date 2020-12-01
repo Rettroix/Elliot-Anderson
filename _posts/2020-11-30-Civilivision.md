@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Civilivision
-description: A Civilization Simulation Game
+description: A Civilization Simulation Game created in Unity and written in C#
 image: assets/images/civ.png
 ---
 The aim of this project is to create a sandbox game which simulates the development of civilizations as they adapt and react to the generated conditions around them. 
